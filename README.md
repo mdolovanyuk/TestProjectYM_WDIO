@@ -38,11 +38,11 @@
 
 - **Node.js** - серверная платформа для работы с JavaScript;
 
-- **WebdriverIO** - фреймворк для автоматизации тестирования с помощью W3C WebDriver API;
+- **WebdriverIO** - фреймворк для автоматизации тестирования через W3C WebDriver API;
 
 - **Chai** - инструмент, позволяющий гибко настроить проверку результатов тест-кейсов;
 
-- **Geckodriver, wdio-geckodriver-service** - инструменты для взаимодействия с Firefox версии выше 47;** - инструмент для взаимодействия с Firefox версии выше 47;
+- **Geckodriver, wdio-geckodriver-service** - инструменты для взаимодействия с Firefox версии выше 47;
 
 - **Google Chrome, Mozilla Firefox** - целевые браузеры;
 
